@@ -36,7 +36,7 @@ public class WebTable1 {
 	        }
 	    	
 	    	}
-
+System.out.println("WebTable details are updated");
 	    }
 	}
 }
